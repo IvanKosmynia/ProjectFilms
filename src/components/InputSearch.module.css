@@ -1,0 +1,25 @@
+.input{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+
+.input_field{
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 0 0 0 10px;
+    box-sizing: border-box;
+}
+
+.input_button{
+    height: 40px;
+    width: 40px;
+    background-image: url(./../img/magnifier.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    padding: 0;
+}
